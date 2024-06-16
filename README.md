@@ -1,4 +1,4 @@
-Note: This project is scrapped.
+# ⚠️ Note: This project is scrapped. ⚠️
 
 # `@stricjs/app`
 Build high-performance and scalable web apps. 
